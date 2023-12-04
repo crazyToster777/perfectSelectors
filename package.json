@@ -1,0 +1,22 @@
+{
+  "name": "perfectselectors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazyToster777/perfectSelectors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crazyToster777/perfectSelectors/issues"
+  },
+  "homepage": "https://github.com/crazyToster777/perfectSelectors#readme",
+  "devDependencies": {
+    "@playwright/test": "1.40.1",
+    "@types/node": "20.10.3"
+  }
+}
